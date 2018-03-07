@@ -53,6 +53,12 @@ export class Props {
 
   public style?: ViewStyle = {}
 
+  //宽度
+  public width?:number=0
+
+  //高度
+  public height?:number=0
+
   /**
    * 长按图片的回调
    */
