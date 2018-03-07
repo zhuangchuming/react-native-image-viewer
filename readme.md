@@ -1,3 +1,8 @@
+新增width、height两个属性，解决横屏显示在IOS中显示异常问题
+
+width:Number
+height:Number
+
 ## Show Cases
 
 > Swiper image
